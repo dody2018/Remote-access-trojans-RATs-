@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\virus01\virus01\bin\Debug\virus01.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\virus01\virus01\bin\Debug\virus01.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\virus01\virus01\obj\Debug\virus01.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SharpDevelop Projects\virus01\virus01\obj\Debug\virus01.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\virus01\virus01\obj\Debug\virus01.pdb

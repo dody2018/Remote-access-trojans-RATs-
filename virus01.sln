@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "virus01", "virus01\virus01.csproj", "{66EE9F06-1CF5-40A2-B2BE-2BA6B109B6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client.cs\client.csproj", "{9DD1FE08-2AE9-4AF3-9C1C-5144C70909E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "virus", "..\virus\virus.csproj", "{CFAA9049-0990-4244-9404-DCDE495EC0B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66EE9F06-1CF5-40A2-B2BE-2BA6B109B6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EE9F06-1CF5-40A2-B2BE-2BA6B109B6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EE9F06-1CF5-40A2-B2BE-2BA6B109B6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EE9F06-1CF5-40A2-B2BE-2BA6B109B6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD1FE08-2AE9-4AF3-9C1C-5144C70909E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD1FE08-2AE9-4AF3-9C1C-5144C70909E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD1FE08-2AE9-4AF3-9C1C-5144C70909E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD1FE08-2AE9-4AF3-9C1C-5144C70909E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAA9049-0990-4244-9404-DCDE495EC0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAA9049-0990-4244-9404-DCDE495EC0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAA9049-0990-4244-9404-DCDE495EC0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFAA9049-0990-4244-9404-DCDE495EC0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
